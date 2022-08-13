@@ -4,9 +4,9 @@
 - 😎 Pronouns: ele/dele
 
 <div align="center">
-  <a href="https://github.com/vitor-dev-pro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor-dev-pro&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-dev-pro&layout=compact&langs_count=7&theme=codeSTACKr&locale=pt-br"/>
+  <a href="https://github.com/dev-vitorfaustino">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-vitorfaustino&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vitorfaustino&layout=compact&langs_count=3&theme=codeSTACKr&"/>
 </div>
 
 <div style="display: inline_block"><br>

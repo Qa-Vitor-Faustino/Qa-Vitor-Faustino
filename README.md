@@ -1,11 +1,11 @@
 ## Oi! Eu sou o Vitor Faustino!
 
-- 🖖 Atualmente estudo o front-end estudanto o Html,Css JavaScript
+- 🖖 Atualmente estou estudando Java
 - 😎 Pronouns: ele/dele
 
 <div align="center">
-  <a href="https://github.com/dev-vitorfaustino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-vitorfaustino&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&"/>
+  <a href="https://github.com/Qa-Vitor-Faustino">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Qa-Vitor-Faustino&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vitorfaustino&layout=compact&langs_count=3&theme=codeSTACKr&"/>
 </div>
 
